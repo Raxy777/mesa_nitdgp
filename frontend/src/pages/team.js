@@ -297,15 +297,6 @@ export default function Team() {
       linkedin:"https://www.linkedin.com/in/pranoy-sarkar-47695a308",
     },
     {
-      name: "Safiya",
-      role: "cad / catia",
-      image: "safiya.jpg",
-      facebook: "#",
-      instagram:"https://www.instagram.com/safiya_2358",
-      linkedin:"https://www.linkedin.com/in/safiya-tasneem-901667217",
-    },
-    
-    {
       name: "Samparka",
       role: "Event Manager",
       image: "samparka.jpg",
@@ -353,8 +344,6 @@ export default function Team() {
       instagram: "https://www.instagram.com/srijan_maddeshiya/",
       linkedin: "https://www.linkedin.com/in/srijan-maddheshiya-5b7574298/",
     },
-    
-   
     {
       name: "Keerthana",
       role: "Video editor",
